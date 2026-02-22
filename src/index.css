@@ -10,6 +10,9 @@
 
 @layer base {
   :root {
+    --accent-primary: #1a56db;
+    --accent-gold: #d4a017;
+    --accent-gold-light: #f0c040;
     --background: 0 0% 100%;
     --foreground: 0 0% 3.9%;
     --card: 0 0% 100%;
